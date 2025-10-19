@@ -1,6 +1,7 @@
 # This is my README
 I code in Java for now but i am planning on starting learning C.
 Make phone happy and allow notifications now.
+I have a CX33 Hetzner VPS Instance that i host my main website own.
 
 ![Happy Phone](https://happyphone.tech/happyphone.png)
 
