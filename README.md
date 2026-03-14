@@ -11,5 +11,3 @@ I'm really interested in OSDev so my OS is a priority for now.
 I'm also interested in shortwave radio.
 
 [My Website](https://opuadm.com) (still WIP, primarily focusing on my OS so don't expect many updates on my website for now)
-
-![Happy Phone](https://happyphone.tech/happyphone.png)
