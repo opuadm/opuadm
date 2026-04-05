@@ -1,5 +1,5 @@
 # This is my README
-I code in Java and im trying to learn C.
+Learning C.
 
 Make phone happy and allow notifications now.
 
