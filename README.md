@@ -8,7 +8,9 @@
         alt="opuadm.com"
         width="38"
         height="38"
-      /></picture></a>
+      />
+    </picture>
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -23,7 +25,38 @@
   </picture>
 </p>
 
-<p align="center">Donations</p>
-<p align="center">BTC: bc1qz0aaxg4a4h40r6xq2c597v5zt6lq8z9fv58yjw</p>
-<p align="center">ETH: 0x29ad4604b4fc39037d973f65ffb34cbda65916c1</p>
-<p align="center">SOL: 5HKmrrJg65jjFum8a8iJDkcwS1mwrfzet5MwN8pGks4B</p>
+<h1 align="center">🌐 OpuaDM</h1>
+
+<p align="center">
+  <strong>Builder • Developer • Digital Creator</strong>
+</p>
+
+## 👋 About OpuaDM
+
+OpuaDM is a curious developer and digital builder focused on creating useful tools, practical systems, and online experiences. With a strong interest in technology, problem-solving, and continuous learning, OpuaDM blends creativity with engineering to turn ideas into working solutions.
+
+This profile repository reflects that spirit: a compact space for projects, experimentation, and a technical identity centered on growth, curiosity, and building things that matter.
+
+## 🧠 Core Focus
+
+- 💻 Writing clean, efficient code
+- ⚙️ Exploring software systems and tooling
+- 🌍 Building digital experiences and web presence
+- 🚀 Learning, experimenting, and improving continuously
+
+## 🛠️ Languages & Tools
+
+- C
+- Java
+
+## 💙 Support
+
+If you'd like to support OpuaDM, donations are welcome:
+
+- BTC: `bc1qz0aaxg4a4h40r6xq2c597v5zt6lq8z9fv58yjw`
+- ETH: `0x29ad4604b4fc39037d973f65ffb34cbda65916c1`
+- SOL: `5HKmrrJg65jjFum8a8iJDkcwS1mwrfzet5MwN8pGks4B`
+
+<p align="center">
+  <em>Powered by curiosity, code, and creativity ✨</em>
+</p>
